@@ -1,0 +1,40 @@
+{
+  "squadName": "Challenge 2",
+  "homeTown": "Metro City",
+  "year": 2022,
+  "mounth": "Agosto",
+  "active": true,
+  "members": [
+    {
+      "name": "Nosvaldo",
+      "age": 40,
+      "secretIdentity": "Dan Jukes",
+      "powers": [
+        "Radiation resistance",
+        "Turning tiny",
+        "Radiation blast"
+      ]
+    },
+    {
+      "name": "Junia",
+      "age": 20,
+      "secretIdentity": "Jane Wilson",
+      "powers": [
+        "Million tonne punch",
+        "Damage resistance",
+        "Superhuman reflexes"
+      ]
+    },
+    {
+      "name": "Douglas",
+      "age": 30,
+      "secretIdentity": "Unknown",
+      "powers": [
+        "Immortality",
+        "Heat Immunity",
+        "Teleportation",
+        "Interdimensional travel"
+      ]
+    }
+  ]
+}
